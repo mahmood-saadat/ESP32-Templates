@@ -13,6 +13,7 @@
 #ifndef __TEMPLATEMANAGER_H__
 #define __TEMPLATEMANAGER_H__
 
+#include <freertos/task.h>
 
 class TemplateFile{
 public:
