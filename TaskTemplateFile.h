@@ -2,7 +2,9 @@
  * TemplateFile.h
  *
  *  Created on: Nov 18, 2021
- *      Author: Saadat
+ *      Author: M.Saadat (m.saadat@mail.com)
+ * This file provide as is with no garantee of any sort.
+ * Any modification and redistribution of this file is allowed as long as this discription is kept at the top of the file.
  *
  *  V1.0.0: Base release
  */
