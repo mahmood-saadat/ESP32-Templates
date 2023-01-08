@@ -3,6 +3,7 @@
  *
  *  Created on: Nov 18, 2021
  *      Author: M.Saadat (m.saadat@mail.com)
+ * Github: https://github.com/mahmood-saadat/ESP32-Templates/tree/master/Task%20Templates
  * This file provide as is with no garantee of any sort.
  * Any modification and redistribution of this file is allowed as long as this discription is kept at the top of the file.
  *
@@ -12,10 +13,6 @@
 #ifndef __TEMPLATEMANAGER_H__
 #define __TEMPLATEMANAGER_H__
 
-#include "../Functions/Global/Global.h"
-#include "../Functions/Global/types.h"
-#include "../Functions/Flash/Flash.h"
-#include "../Functions/Activation.h"
 
 class TemplateFile{
 public:
